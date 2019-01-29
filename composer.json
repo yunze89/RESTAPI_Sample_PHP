@@ -1,0 +1,6 @@
+{
+        "require":
+        {
+            "phroute/phroute": "1.*"
+        }
+}
